@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>NextGen Wears</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand">NextGen Wears</div>
+      <div class="actions">
+        <button id="cart-btn">Cart (<span id="cart-count">0</span>)</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <h1>Modern garments — shirts, trousers, hoodies & jackets</h1>
+        <p>Shop curated everyday wear for all seasons.</p>
+      </section>
+
+      <section id="products" class="products-grid" aria-live="polite"></section>
+    </main>
+
+    <div id="cart-modal" class="cart-modal" aria-hidden="true">
+      <div class="cart">
+        <h2>Your Cart</h2>
+        <div id="cart-items"></div>
+        <div class="cart-footer">
+          <div class="total">Total: $<span id="cart-total">0.00</span></div>
+          <div class="cart-actions">
+            <button id="clear-cart">Clear</button>
+            <button id="checkout">Checkout</button>
+            <button id="close-cart">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

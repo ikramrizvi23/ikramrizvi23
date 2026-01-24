@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"Classic Oxford Shirt","category":"Shirts","price":34.99,"image":"https://images.unsplash.com/photo-1602810315399-9c1c3f5f7a69?w=800&q=60","desc":"Crisp, wearable everyday oxford shirt."},
+  {"id":2,"name":"Slim Chino Trousers","category":"Trousers","price":44.99,"image":"https://images.unsplash.com/photo-1520975910206-7f7b0f5d9b5f?w=800&q=60","desc":"Comfort stretch chinos with tapered leg."},
+  {"id":3,"name":"Everyday Hoodie","category":"Hoodies","price":49.99,"image":"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=60","desc":"Soft brushed interior hoodie."},
+  {"id":4,"name":"Parka Jacket","category":"Jackets","price":89.99,"image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=60","desc":"Water-resistant parka with hood."},
+  {"id":5,"name":"Denim Jacket","category":"Jackets","price":74.99,"image":"https://images.unsplash.com/photo-1530845648310-1b4f3c4f6c77?w=800&q=60","desc":"Classic indigo denim jacket."},
+  {"id":6,"name":"Casual Tee","category":"Shirts","price":19.99,"image":"https://images.unsplash.com/photo-1520975681919-ff2d8e0f5c9d?w=800&q=60","desc":"Soft cotton tee, regular fit."},
+  {"id":7,"name":"Jogger Trousers","category":"Trousers","price":39.99,"image":"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=60","desc":"Comfort jogger with ankle cuff."},
+  {"id":8,"name":"Zip Hoodie","category":"Hoodies","price":54.99,"image":"https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=60","desc":"Lightweight zip-through hoodie."}
+]
